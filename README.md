@@ -1,2 +1,0 @@
-# ManPass
-password manager (delphi)
